@@ -1,0 +1,7 @@
+com\dmt\controller\IndexController.class
+com\dmt\configs\TilesConfig.class
+com\dmt\controller\CategorySerivce.class
+com\dmt\configs\DispatcherServletInit.class
+com\dmt\configs\SpringSecurityConfig.class
+com\dmt\configs\WebApplicationContextConfig.class
+com\dmt\configs\HibernateConfig.class
